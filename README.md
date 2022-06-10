@@ -1,4 +1,4 @@
-# TheWhoisBot
+# TheWhoisBot AKA: Poooorygon
 Discord bot made in ruby that make whois searches
 
 * **PREFIX**: ,
